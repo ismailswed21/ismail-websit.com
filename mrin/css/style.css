@@ -1,0 +1,77 @@
+body
+{
+     font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: antiquewhite;
+}
+.container
+{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    margin: 0%;
+    padding: 0%;
+}
+header
+{
+    background: #8d0808;
+    color: #ffffff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #000000 5px solid;
+}
+
+header a
+{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 19px;
+}
+header li{
+    float: right;
+    display: inline;
+    padding:  0 20px 0 20px;
+}
+header #brand
+{
+    float: right;
+}
+header #brand h1
+{
+    margin: 0;
+    color: rgb(77, 7, 7);
+}
+header nav
+{
+    float: left;
+    margin-top: 10px;
+}
+header .current a
+{
+    color: #570909;
+    font-weight: bold;
+
+}
+header a:hover
+{
+    color: #1d0505;
+    font-weight: bold;
+}
+
+{
+    padding: 15px;
+    color: #1a0606;
+    background: #200303;
+}
+
+{
+    float: right;
+}
+
+{
+    float: left;
+    margin-top: 15px;
+}
